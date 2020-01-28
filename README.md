@@ -1,7 +1,7 @@
-# Orfeu Project
-Repositório para o jogo "Lagrimas de Ferro" baseado na historia de Orfeu.
+# Orfeu
+Jogo "Lagrimas de Ferro" baseado na mitologia grega de Orfeu.
 
 ## softwares utilizados
-godot 3
-gimp 
-krita
+godot 3  
+gimp  
+krita  
