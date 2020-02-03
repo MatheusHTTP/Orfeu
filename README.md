@@ -22,6 +22,8 @@ krita
   [Conceito: O que é Game Design Document? (GDD) | Fábrica de Jogos](https://www.youtube.com/watch?v=vRreX5SxD2M&list=PLf913d79oEgjrhHypmi1wYh59Oswjuv4K&index=6)
   
   [GDD DE UMA PÁGINA | CRIE SEUS JOGOS](https://www.youtube.com/watch?v=BDTuR8FkP0s)
+  
+  [Mini-aulas GDD](https://www.youtube.com/playlist?list=PL1G76ZhM5NyvLkY0KJmMDnBB7LoJI1wuy)
 ### Godot 3
 [Programando Jogos](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5KtmvkFREP-Kn1WAwslIJx)
 
