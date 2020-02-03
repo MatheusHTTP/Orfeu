@@ -15,10 +15,11 @@ krita
   #### High Concept
   [Como fazer Conceito de Jogo (ou High Concept)? | Fábrica de Jogos](https://www.youtube.com/watch?v=8rw40khX0Es)
   
+  #### Art Design Document
+  [Conceito: O que é Art Design Document? | Fábrica de Jogos](https://www.youtube.com/watch?v=EA_T9GFFCHs)
+  
   #### GDD (game design document)
   [Conceito: O que é Game Design Document? (GDD) | Fábrica de Jogos](https://www.youtube.com/watch?v=vRreX5SxD2M&list=PLf913d79oEgjrhHypmi1wYh59Oswjuv4K&index=6)
-[]()
-[]()
 
 ### Godot 3
 [Programando Jogos](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5KtmvkFREP-Kn1WAwslIJx)
