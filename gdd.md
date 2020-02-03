@@ -6,11 +6,6 @@
     <b>atualizado em</b> 03/02/2020
 </p>
 
-<!--inicio de descricao-->
-<p>
-    Jogo baseado na lenda mitologica grega de Orfeu.
-</p>
-<!--final de descricao-->
 <!--inicio de sumario-->
 
 # Sumário
