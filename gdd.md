@@ -26,7 +26,7 @@
   * [Descrição do projeto (completa)]()
 * [Diferenciais do projeto]()
   * [Mecanicas de jogabilidade(detalhadas)]()
-    * [mecanica 01] ()
+    * [mecanica 01]()
 * [História]()
   * [História (breve)]()
   * [História (completa)]()
@@ -40,10 +40,7 @@
   * [animações]()
 * [Cronograma]()
   * [meta 01]()
-  
 
-* [item](#item)
-* [item](#item)
                      
 <!--final de sumario-->
 # 01
