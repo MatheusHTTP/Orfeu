@@ -2,9 +2,9 @@
 Jogo "Lágrimas de Ferro" baseado na mitologia grega de Orfeu.
 
 ## Softwares
-godot 3  
-gimp  
-krita  
+[godot 3](https://godotengine.org/)  
+[gimp](https://www.gimp.org/)  
+[krita](https://krita.org/en/)  
 
 ## Fontes
 ### Gerais
