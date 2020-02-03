@@ -10,7 +10,7 @@ Jogo "Lágrimas de Ferro" baseado na mitologia grega de Orfeu.
 ### Gerais
 [Básico de Game Design](https://www.youtube.com/playlist?list=PLf913d79oEgjrhHypmi1wYh59Oswjuv4K)
 
-### Documentação , Organizacao e Planejamento
+### Documentação , Organização e Planejamento
   #### Github
   [GitHub, Repositório Open Source, Gestão do Projeto e Escopo de cada Robô (Project Management)](https://www.youtube.com/watch?v=tEloMCbLEAE)
   #### High Concept
