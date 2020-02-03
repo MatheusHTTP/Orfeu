@@ -8,8 +8,7 @@ krita
 
 ## Fontes
 ### Documentação , organizacao e planejamento
-[https://www.youtube.com/watch?v=tEloMCbLEAE](GitHub, Repositório Open Source, Gestão do Projeto e Escopo de cada Robô Project Management)
-[]()
+[GitHub, Repositório Open Source, Gestão do Projeto e Escopo de cada Robô (Project Management)](https://www.youtube.com/watch?v=tEloMCbLEAE)
 ### Godot 3
 []()
 ### Inspirações
