@@ -1,16 +1,16 @@
 # Orfeu
 Jogo "Lagrimas de Ferro" baseado na mitologia grega de Orfeu.
 
-## softwares utilizados
+## Softwares utilizados
 godot 3  
 gimp  
 krita  
 
-## referencias
-### documentacao , organizacao e planejamento
+## Fontes
+### Documentação , organizacao e planejamento
 []()
 []()
-### godot
+### Godot 3
 []()
-### inspirações
+### Inspirações
 []()
