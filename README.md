@@ -13,6 +13,7 @@ Jogo "Lágrimas de Ferro" baseado na mitologia grega de Orfeu.
 ### Documentação , Organização e Planejamento
   #### Github
   [GitHub, Repositório Open Source, Gestão do Projeto e Escopo de cada Robô (Project Management)](https://www.youtube.com/watch?v=tEloMCbLEAE)
+  [📂 Curso GIT e GITHUB - KANBAN - Gerenciando projetos (aba Projects) com o ferramenta nativa.](https://www.youtube.com/watch?v=KmH1o6wCuDE)
   #### High Concept
   [Como fazer Conceito de Jogo (ou High Concept)? | Fábrica de Jogos](https://www.youtube.com/watch?v=8rw40khX0Es)
   
