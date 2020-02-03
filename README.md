@@ -1,5 +1,5 @@
 # Orfeu
-Jogo "Lagrimas de Ferro" baseado na mitologia grega de Orfeu.
+Jogo "Lágrimas de Ferro" baseado na mitologia grega de Orfeu.
 
 ## Softwares utilizados
 godot 3  
