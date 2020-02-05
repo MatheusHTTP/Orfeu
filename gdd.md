@@ -17,7 +17,6 @@
   * [Escopo do projeto]()
   * [Referencias]()
     * [referencia 01]()
-  * [Pitch de elevador]()
   * [Descricao do projeto (breve)]()
   * [Descrição do projeto (completa)]()
 * [Diferenciais do projeto]()
