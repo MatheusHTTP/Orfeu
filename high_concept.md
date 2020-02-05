@@ -3,14 +3,14 @@
 
 
 - [O que é ?](#o-que-%c3%a9)
-- [Plataformas](#plataformas)
+- [Onde isso vai funcionar?](#onde-isso-vai-funcionar)
 - [Cronograma](#cronograma)
-- [Pessoas](#pessoas)
-  - [Publico alvo](#publico-alvo)
-  - [Equipe de desenvolvimento](#equipe-de-desenvolvimento)
+- [Para quem e por quem isso foi pensado?](#para-quem-e-por-quem-isso-foi-pensado)
+  - [Quem é o público alvo](#quem-%c3%a9-o-p%c3%bablico-alvo)
+  - [Quem é a equipe de desenvolvimento](#quem-%c3%a9-a-equipe-de-desenvolvimento)
 - [Por que isso existe ?](#por-que-isso-existe)
-- [Como sera feito](#como-sera-feito)
-- [Custos](#custos)
+- [Como será feito ?](#como-ser%c3%a1-feito)
+- [Quais seram os custos ?](#quais-seram-os-custos)
 
 
  
@@ -18,7 +18,7 @@
 
 <p>Por o texto de sobre o jogo aqui.</p>
 
-## Plataformas
+## Onde isso vai funcionar?
 
 <p>Por texto das plataformas aqui.</p>
 
@@ -26,15 +26,15 @@
 
 <p>Por cronograma aqui</p>
 
-## Pessoas
+## Para quem e por quem isso foi pensado?
 
 <P>Pessoas</p>
 
-### Publico alvo
+### Quem é o público alvo
 
 <p>Por texto de publico alvo aqui</p>
 
-### Equipe de desenvolvimento
+### Quem é a equipe de desenvolvimento
 
 <p>Por texto da equipe de desenvolvimento aqui</p>
 
@@ -42,10 +42,10 @@
 
 <p>Por texto de porque isso existe aqui</p>
 
-## Como sera feito
+## Como será feito ?
 
 <p>Por texto de como sera feito aqui</p>
 
-## Custos
+## Quais seram os custos ?
 
 <p>Vai custar tempo ,internet e energia elétrica.</p>
