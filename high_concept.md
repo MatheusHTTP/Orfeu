@@ -28,7 +28,7 @@
 
 ## Para quem e por quem isso foi pensado?
 
-<P>Pessoas</p>
+
 
 ### Quem é o público alvo
 
