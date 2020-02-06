@@ -8,10 +8,10 @@
 
 <!--inicio de sumario-->
 
-# Sumário
+## Sumário
 
-* [Visão geral](#01)
-  * [Tema](#subitem)
+* [Visão geral](#vis%c3%a3o-geral)
+  * [Tema](#tema)
   * [Plataformas]()
   * [Modelo de monetização]()
   * [Escopo do projeto]()
@@ -23,8 +23,10 @@
 * [História]()
   * [História (breve)]()
   * [História (completa)]()
-* [Artes]()
-  * [cenários]()
+* [Artes](#artes)
+  * [cenários](#cen%c3%a1rios)
+    * [Descricao geral dos cenários](#descri%c3%a7%c3%a3o-geral-dos-cen%c3%a1rios)
+    * [fase 01](#fase-01)
   * [personagens]()
 * [Trilha sonora]()
   * [sons]()
@@ -44,5 +46,16 @@
   * [meta 01]()
                      
 <!--final de sumario-->
-# 01
-## subitem
+# Visão geral
+## Tema
+
+# Artes
+## Cenários
+
+### Descrição geral dos cenários
+
+<p>eu peguei a historio e criei meio q um caminho pro personagem seguir, depois imaginei como seria cada ambiente baseado no que faz mais sentido</p>
+
+### fase 01
+
+<p>É para parecer tipo um tunel ou caverna porque era dito que haviam algumas entradas para  o submundo em cavernas </p>
