@@ -17,7 +17,8 @@
   * [Modelo de monetização]()
   * [Escopo do projeto]()
   * [Referências]()
-    * [referência 01]()
+    * [referência para estilo de arte](#referencia_arte)
+    * [referência para gameplay](#referencia_gameplay)
   * [Descrição do projeto (breve)]()
   * [Descrição do projeto (completa)]()
 * [Diferenciais do projeto]()
@@ -50,6 +51,13 @@
 # Visão geral
 ## Tema
 <p>Mitologia grega ,especificamente a lenda de Orfeu</p>
+
+## Referências
+### referencia para o estilo de arte
+[Easy Paper Cutout Stop Motion Look - After Effects Animation Tutorial
+](https://www.youtube.com/watch?v=nwpYl04Cczo)
+### referencia para o gameplay
+[The Textorcist - Release Trailer](https://www.youtube.com/watch?v=SAEMlq_qVeM)
 
 # Artes
 ## Cenários
