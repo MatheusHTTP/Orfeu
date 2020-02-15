@@ -22,9 +22,9 @@
   * [Descrição do projeto (breve)]()
   * [Descrição do projeto (completa)]()
 * [Diferenciais do projeto]()
-* [História]()
-  * [História (breve)]()
-  * [História (completa)]()
+* [História](#historia)
+  * [História (breve)](#historia_breve)
+  * [História (completa)](#historia_completa)
 * [Artes](#artes)
   * [cenários](#cen%c3%a1rios)
     * [Descricao geral dos cenários](#descrição-geral-dos-cenários)
@@ -59,6 +59,13 @@
 ](https://www.youtube.com/watch?v=nwpYl04Cczo)
 ### referencia para o gameplay
 [The Textorcist - Release Trailer](https://www.youtube.com/watch?v=SAEMlq_qVeM)
+
+# História
+
+<p>História baseada na lenda de orfeu ,disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
+
+## História breve
+## História completa
 
 # Artes
 ## Cenários
