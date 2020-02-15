@@ -44,8 +44,7 @@
   * [jogabilidade (breve)]()
   * [jogabilidade (detalhada)]()
 
-* [Cronograma]()
-  * [meta 01]()
+* [Cronograma](#cronograma)
                      
 <!--final de sumario-->
 # Visão geral
