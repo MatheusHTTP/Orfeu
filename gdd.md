@@ -26,7 +26,7 @@
   * [História (breve)](#história_breve)
   * [História (completa)](#história_completa)
 * [Artes](#artes)
-  * [cenários](#cen%c3%a1rios)
+  * [cenários](#cenários)
     * [Descricao geral dos cenários](#descrição-geral-dos-cenários)
     * [fase 01](#fase-01)
   * [personagens]()
