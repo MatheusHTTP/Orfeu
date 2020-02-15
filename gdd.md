@@ -27,7 +27,8 @@
 * [Artes](#artes)
   * [cenários](#cenários)
     * [Descricao geral dos cenários](#descrição-geral-dos-cenários)
-    * [fase 01](#fase-01)
+    * [fase 01 - Rota para o submundo ](#fase-01)
+    * [fase 02 - O rio de almas](#fase-02)
   * [personagens]()
 * [Trilha sonora]()
   * [sons]()
@@ -74,7 +75,26 @@
 
 ### fase 01
 
-<p>É para parecer tipo um tunel ou caverna porque era dito que haviam algumas entradas para  o submundo em cavernas </p>
+<h3> Fase 1 – Rota para o submundo</h3>
+<h4>Descrição</h4> 
+<p>Começa na entrada para o submundo e abrange todo o caminho até o cais do Rio Estige onde Caronte aguarda. O cenário deve parecer algo como um túnel ou caverna com aberturas nas paredes por ondem inimigos podem ou não sair, além disso um caminho linear pode se tornar monótono então a fase deve conter curvas e/ou caminhos alternativos (qualquer coisa que torne a rota mais diversificada). A "sala do boss" será à beira do Rio Estige com Caronte em seu barco, porém é necessário que haja terra o suficiente para que o jogador possa se movimentar e desviar. Seria interessante também fazer a fase agir como uma descida como se o jogador de fato estivesse descendo ao submundo (talvez não seja possível com as definições atuais do jogo).</p>
+
+<h4>Inimigos</h4> 
+<p>Ghouls - Se alimentam de carne humana e podem passar longos períodos sem comer, vivem em lugares escuros já que não suportam a luz e por isso possuem pele extremamente clara, além de serem igualmente magros (parecem bastante com o golum/smeagol). Os ghous são bem agressivos e sanguinários então terão um padrão de ataque condizente com essa característica. Irão surgir de buracos nas paredes do nível e atacarão saltando para cima do jogador, além disso serão inimigos velozes que não darão muito tempo para o jogador pensar.</p>
+
+<h4>Boss</h4> 
+<p>Caronte - Caronte é o barqueiro do submundo e o responsável por atravessar as almas pelo Rio Estige em troca de moedas de prata (as quais são enterradas com os mortos), porém é proibido levar os vivos pelo rio então pagar Caronte não será o suficiente para Orfeu. Sem ideias para padrões de ataque :(
+</p>
+<h4>Extras</h4>
+<p>O nível se passa em uma cadeia de cavernas então é interessante que ele seja meio que como um labirinto simples (sem muitos caminhos fechados para evitar que o jogador se perca). Também seria bom adicionar “atalhos fechados” tanto em caminhos alternativos quanto no principal, esses atalhos seriam caminhos fechados por algum tipo de obstáculo (uma pedra, parede meio quebrada, taboas etc.) e que poderia ser liberado com Orfeu tocando sua lira.</p>
+
+### fase 02
+
+<h3>Fase 2 – O rio de almas</h3>
+
+<h4>Descrição</h4>
+<p>Após convencer Caronte, Orfeu é levado por ele em sua barca pelo Rio Estige. Como não é Orfeu, mas sim Caronte quem comanda a barca, o jogador não define o caminho que será tomado, ou seja, o barco se move automaticamente por um percurso predefinido....
+</p>
 
 # Cronograma
 ### definir o jogo de acordo com as iusses até final de março/2020 ( )
