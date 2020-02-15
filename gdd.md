@@ -14,7 +14,6 @@
 * [Visão geral](#visão-geral)
   * [Tema](#tema)
   * [Plataformas]()
-  * [Modelo de monetização]()
   * [Escopo do projeto]()
   * [Referências]()
     * [referência para estilo de arte](#referencia_arte)
