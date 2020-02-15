@@ -61,7 +61,7 @@
 
 <p>É para parecer tipo um tunel ou caverna porque era dito que haviam algumas entradas para  o submundo em cavernas </p>
 
-## Cronograma
+# Cronograma
 ### definir o jogo de acordo com as iusses até final de março/2020 ( )
 ### ter uma alfa minimamente jogavel até final de junho/2020 ( )
 ### ter uma beta jogavel até final de setembro/2020 ( )
