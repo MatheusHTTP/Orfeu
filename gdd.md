@@ -2,15 +2,15 @@
 <h2 align="center">ORFEU: LÁGRIMAS DE FERRO</h2>
 
 <p align="center">
-    <b>versão</b> 0.0.1 </br>
-    <b>atualizado em</b> 03/02/2020
+    <b>versão</b> 0.0.2</br>
+    <b>atualizado em</b> 15/02/2020
 </p>
 
 <!--inicio de sumario-->
 
 ## Sumário
 
-* [Visão geral](#vis%c3%a3o-geral)
+* [Visão geral](#visao-geral)
   * [Tema](#tema)
   * [Plataformas]()
   * [Modelo de monetização]()
