@@ -50,7 +50,8 @@
 <!--final de sumario-->
 # Visão geral
 ## Tema
-<p>Mitologia grega ,especificamente a lenda de Orfeu</p>
+<p>Mitologia grega ,baseado na lenda de Orfeu.</p>
+<p>Disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
 
 ## Referências
 ### referencia para o estilo de arte
