@@ -3,7 +3,7 @@
 <h2 align="center">ORFEU: LÁGRIMAS DE FERRO</h2>
 
 <p align="center">
-    <b>versão</b> 0.0.3</br>
+    <b>versão</b> 0.0.4</br>
     <b>atualizado em</b> 21/02/2020
 </p>
 
@@ -16,8 +16,11 @@
   - [Plataformas](#plataformas)
   - [Escopo do projeto](#escopo-do-projeto)
   - [Referências](#refer%c3%aancias)
-    - [referencia para o estilo de arte](#referencia-para-o-estilo-de-arte)
+    - [Referencia para o estilo de arte](#referencia-para-o-estilo-de-arte)
+    - [referencia para movimentacao](#referencia-para-movimentacao)
     - [referencia para o gameplay](#referencia-para-o-gameplay)
+  - [genero](#genero)
+  - [Estilo grafico](#estilo-grafico)
 - [História](#hist%c3%b3ria)
   - [História breve](#hist%c3%b3ria-breve)
   - [História completa](#hist%c3%b3ria-completa)
@@ -39,17 +42,28 @@
 <!--final de sumario-->
 # Visão geral
 ## Tema
+
 <p>Mitologia grega ,baseado na lenda de Orfeu.</p>
 <p>Disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
+
 ## Plataformas
 ## Escopo do projeto
 ## Referências
-### referencia para o estilo de arte
+### Referencia para o estilo de arte
+![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/Opera&#32;Instantâneo_2020-02-21_114856_www.youtube.com.png)
 [Easy Paper Cutout Stop Motion Look - After Effects Animation Tutorial
 ](https://www.youtube.com/watch?v=nwpYl04Cczo)
+
+![How to Make a Simple Paper Cutout illustration in Adobe illustrator](../Orfeu/imagens_para_documentacao/Opera&#32;Instantâneo_2020-02-21_114946_www.youtube.com.png)
+[How to Make a Simple Paper Cutout Illustration in Adobe Illustrator
+](https://www.youtube.com/watch?v=TlhPXq9oKMY)
+
+### referencia para movimentacao
+[Hotline Miami - Official Trailer](https://www.youtube.com/watch?v=mg5s5Dq50Rg)
 ### referencia para o gameplay
 [The Textorcist - Release Trailer](https://www.youtube.com/watch?v=SAEMlq_qVeM)
-
+## genero
+## Estilo grafico
 # História
 
 <p>História baseada na lenda de orfeu ,disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
