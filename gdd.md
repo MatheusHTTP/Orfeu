@@ -50,13 +50,13 @@
 ## Escopo do projeto
 ## Referências
 ### Referencia para o estilo de arte
-![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/Opera&#32;Instantâneo_2020-02-21_114856_www.youtube.com.png)
+![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/paper_style_abacate.png)
 
 
 [Easy Paper Cutout Stop Motion Look - After Effects Animation Tutorial
 ](https://www.youtube.com/watch?v=nwpYl04Cczo)
 
-![How to Make a Simple Paper Cutout illustration in Adobe illustrator](../Orfeu/imagens_para_documentacao/Opera&#32;Instantâneo_2020-02-21_114946_www.youtube.com.png)
+![How to Make a Simple Paper Cutout illustration in Adobe illustrator](../Orfeu/imagens_para_documentacao/paper_style_agua_viva.png)
 
 
 [How to Make a Simple Paper Cutout Illustration in Adobe Illustrator
