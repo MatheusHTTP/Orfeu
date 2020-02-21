@@ -59,7 +59,9 @@
 ](https://www.youtube.com/watch?v=TlhPXq9oKMY)
 
 ### referencia para movimentacao
-[Hotline Miami - Official Trailer](https://www.youtube.com/watch?v=mg5s5Dq50Rg)
+[Hotline Miami - Official Announcement Trailer
+](https://www.youtube.com/watch?v=Nv-XCM8sies)
+
 ### referencia para o gameplay
 [The Textorcist - Release Trailer](https://www.youtube.com/watch?v=SAEMlq_qVeM)
 ## genero
