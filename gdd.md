@@ -3,8 +3,7 @@
 <h2 align="center">ORFEU: LÁGRIMAS DE FERRO</h2>
 
 <p align="center">
-    <b>versão</b> 0.0.4</br>
-    <b>atualizado em</b> 21/02/2020
+    <b>atualizado em</b> 21/02/2020 </br>
 </p>
 
 <!--inicio de sumario-->
