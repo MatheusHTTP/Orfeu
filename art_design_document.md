@@ -3,6 +3,10 @@
 
 # Definições iniciais
 ## Estilo de desenho
+
+<p>Estilo recorte de papel.</p>
+
+### referencias 
 ![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/paper_style_abacate.png)
 
 
