@@ -12,14 +12,15 @@
 ## Sumário
 
 - [Visão geral](#vis%c3%a3o-geral)
-  - [Tema](#tema)
-  - [Plataformas](#plataformas)
   - [Escopo do projeto](#escopo-do-projeto)
+  - [Tema](#tema)
+  - [Genero](#genero)
+  - [Plataformas](#plataformas)
   - [Referências](#refer%c3%aancias)
     - [Referencia para o estilo de arte](#referencia-para-o-estilo-de-arte)
     - [referencia para movimentacao](#referencia-para-movimentacao)
     - [referencia para o gameplay](#referencia-para-o-gameplay)
-  - [genero](#genero)
+  - [genero](#genero-1)
   - [Estilo grafico](#estilo-grafico)
 - [História](#hist%c3%b3ria)
   - [História breve](#hist%c3%b3ria-breve)
@@ -41,13 +42,14 @@
                      
 <!--final de sumario-->
 # Visão geral
+## Escopo do projeto
 ## Tema
 
 <p>Mitologia grega ,baseado na lenda de Orfeu.</p>
 <p>Disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
 
+## Genero
 ## Plataformas
-## Escopo do projeto
 ## Referências
 ### Referencia para o estilo de arte
 ![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/paper_style_abacate.png)
