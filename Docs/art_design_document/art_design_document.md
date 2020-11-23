@@ -4,7 +4,20 @@
 # Definições iniciais
 ## Estilo de desenho
 
-<p>Qual é o estilo do desenho com exemplos</p>
+<p>Estilo recorte de papel.</p>
+
+### referencias 
+![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/paper_style_abacate.png)
+
+
+[Easy Paper Cutout Stop Motion Look - After Effects Animation Tutorial
+](https://www.youtube.com/watch?v=nwpYl04Cczo)
+
+![How to Make a Simple Paper Cutout illustration in Adobe illustrator](../Orfeu/imagens_para_documentacao/paper_style_agua_viva.png)
+
+[How to Make a Simple Paper Cutout Illustration in Adobe Illustrator
+](https://www.youtube.com/watch?v=TlhPXq9oKMY)
+
 
 ## Cores
 

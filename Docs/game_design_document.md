@@ -3,62 +3,74 @@
 <h2 align="center">ORFEU: LÁGRIMAS DE FERRO</h2>
 
 <p align="center">
-    <b>versão</b> 0.0.2</br>
-    <b>atualizado em</b> 15/02/2020
+    <b>atualizado em</b> 21/02/2020 </br>
 </p>
 
 <!--inicio de sumario-->
 
 ## Sumário
 
-* [Visão geral](#visão-geral)
-  * [Tema](#tema)
-  * [Plataformas]()
-  * [Escopo do projeto]()
-  * [Referências]()
-    * [referência para estilo de arte](#referencia_arte)
-    * [referência para gameplay](#referencia_gameplay)
-  * [Descrição do projeto (breve)]()
-  * [Descrição do projeto (completa)]()
-* [Diferenciais do projeto]()
-* [História](#história)
-  * [História (breve)](#história_breve)
-  * [História (completa)](#história_completa)
-* [Artes](#artes)
-  * [cenários](#cenários)
-    * [Descricao geral dos cenários](#descrição-geral-dos-cenários)
-    * [fase 01 - Rota para o submundo ](#fase-01)
-    * [fase 02 - O rio de almas](#fase-02)
-  * [personagens]()
-* [Trilha sonora]()
-  * [sons]()
-  * [músicas]()
-* [Animações]()
-* [Hud]()
-* [Controles]()
-* [Interfacie do usuário]()
-* [Gameplay]()
-  * [gameplay (breve)]()
-  * [gameplay (completo)]()
-* [Jogabilidade]()
-  * [jogabilidade (breve)]()
-  * [jogabilidade (detalhada)]()
+- [Visão geral](#vis%c3%a3o-geral)
+  - [Escopo do projeto](#escopo-do-projeto)
+  - [Tema](#tema)
+  - [Genero](#genero)
+  - [Plataformas](#plataformas)
+  - [Referências](#refer%c3%aancias)
+    - [Referencia para o estilo de arte](#referencia-para-o-estilo-de-arte)
+    - [referencia para movimentacao](#referencia-para-movimentacao)
+    - [referencia para o gameplay](#referencia-para-o-gameplay)
+  - [genero](#genero-1)
+  - [Estilo grafico](#estilo-grafico)
+- [História](#hist%c3%b3ria)
+  - [História breve](#hist%c3%b3ria-breve)
+  - [História completa](#hist%c3%b3ria-completa)
+- [Artes](#artes)
+  - [Cenários](#cen%c3%a1rios)
+    - [Descrição geral dos cenários](#descri%c3%a7%c3%a3o-geral-dos-cen%c3%a1rios)
+    - [fase 01](#fase-01)
+    - [fase 02](#fase-02)
+- [Cronograma](#cronograma)
+    - [definir o jogo de acordo com as iusses até final de março/2020 ( )](#definir-o-jogo-de-acordo-com-as-iusses-at%c3%a9-final-de-mar%c3%a7o2020)
+    - [ter uma alfa minimamente jogavel até final de junho/2020 ( )](#ter-uma-alfa-minimamente-jogavel-at%c3%a9-final-de-junho2020)
+    - [ter uma beta jogavel até final de setembro/2020 ( )](#ter-uma-beta-jogavel-at%c3%a9-final-de-setembro2020)
+    - [modificar o jogo conforme o feedback até final de outubro/2020 ( )](#modificar-o-jogo-conforme-o-feedback-at%c3%a9-final-de-outubro2020)
+    - [ter a primeira versão do jogo até meio de dezembro/2020 ( )](#ter-a-primeira-vers%c3%a3o-do-jogo-at%c3%a9-meio-de-dezembro2020)
+    - [publicar na steam até final de dezembro/2020 ( )](#publicar-na-steam-at%c3%a9-final-de-dezembro2020)
 
 * [Cronograma](#cronograma)
                      
 <!--final de sumario-->
 # Visão geral
+## Escopo do projeto
 ## Tema
+
 <p>Mitologia grega ,baseado na lenda de Orfeu.</p>
 <p>Disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
 
+## Genero
+## Plataformas
 ## Referências
-### referencia para o estilo de arte
+### Referencia para o estilo de arte
+![Easy Paper Cutout Stop Motion Look](../Orfeu/imagens_para_documentacao/paper_style_abacate.png)
+
+
 [Easy Paper Cutout Stop Motion Look - After Effects Animation Tutorial
 ](https://www.youtube.com/watch?v=nwpYl04Cczo)
+
+![How to Make a Simple Paper Cutout illustration in Adobe illustrator](../Orfeu/imagens_para_documentacao/paper_style_agua_viva.png)
+
+
+[How to Make a Simple Paper Cutout Illustration in Adobe Illustrator
+](https://www.youtube.com/watch?v=TlhPXq9oKMY)
+
+### referencia para movimentacao
+[Hotline Miami - Official Announcement Trailer
+](https://www.youtube.com/watch?v=Nv-XCM8sies)
+
 ### referencia para o gameplay
 [The Textorcist - Release Trailer](https://www.youtube.com/watch?v=SAEMlq_qVeM)
-
+## genero
+## Estilo grafico
 # História
 
 <p>História baseada na lenda de orfeu ,disponível em: [Orfeu](https://pt.wikipedia.org/wiki/Orfeu)</p>
