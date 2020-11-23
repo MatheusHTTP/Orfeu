@@ -1,16 +1,41 @@
 # Orfeu
 Jogo "Lágrimas de Ferro" baseado na mitologia grega de Orfeu.
 
+
+
 ## Softwares
 [godot 3](https://godotengine.org/)  
 [gimp](https://www.gimp.org/)  
-[krita](https://krita.org/en/)  
+[krita](https://krita.org/en/)
+
 
 ## Fontes
 ### Gerais
 [Básico de Game Design](https://www.youtube.com/playlist?list=PLf913d79oEgjrhHypmi1wYh59Oswjuv4K)
 
 ### Documentação , Organização e Planejamento
+  ### Organização de diretórios e arquivos
+
+  <pre>
+Orfeu    
+  ├── Docs
+  │   ├── art_design_document
+  │   │   ├── art_design_document.md       
+  │   │   └── imagens_art_design_document  
+  │   │       ├── paper_style_abacate.png  
+  │   │       └── paper_style_agua_viva.png
+  │   ├── game_design_document.md
+  │   └── high_concept.md
+  ├── README.md
+  └── src
+      └── lagrimas_de_ferro   
+         ├── default_env.tres
+         ├── icon.png        
+         ├── icon.png.import 
+         ├── main.tscn       
+         ├── player.gd       
+         └── project.godot   
+  </pre>
   #### Github
   [GitHub, Repositório Open Source, Gestão do Projeto e Escopo de cada Robô (Project Management)](https://www.youtube.com/watch?v=tEloMCbLEAE)
   [Curso GIT e GITHUB - KANBAN - Gerenciando projetos (aba Projects) com o ferramenta nativa.](https://www.youtube.com/watch?v=KmH1o6wCuDE)
@@ -35,5 +60,6 @@ Jogo "Lágrimas de Ferro" baseado na mitologia grega de Orfeu.
 [Programando Jogos](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5KtmvkFREP-Kn1WAwslIJx)
 [2d-platform-demo](https://github.com/reisraff/2d-platform-demo)
 
-### Inspirações
+
+## Inspirações
 [The Textorcist - Release Trailer](https://www.youtube.com/watch?v=SAEMlq_qVeM)
