@@ -54,21 +54,24 @@ Exemplo usado para formatação do GDD.
 
 <pre>
 Orfeu
-  ├── Docs
-  │   ├── art_design_document
-  │   │   ├── art_design_document.md
-  │   │   └── imagens_art_design_document  
-  │   │       ├── paper_style_abacate.png  
-  │   │       └── paper_style_agua_viva.png
-  │   ├── game_design_document.md
-  │   └── high_concept.md
-  ├── README.md
-  └── src ( Jogo )
-      └── lagrimas_de_ferro
-         ├── default_env.tres
-         ├── icon.png
-         ├── icon.png.import
-         ├── main.tscn
-         ├── player.gd
-         └── project.godot
+├── Docs
+│   ├── art_design_document
+│   │   ├── art_design_document.md
+│   │   └── imagens_art_design_document
+│   │       ├── paper_style_abacate.png
+│   │       └── paper_style_agua_viva.png
+│   ├── game_design_document.md
+│   ├── high_concept.md
+│   └── meta_documentacao
+│       ├── cronograma.md
+│       └── kanban.md
+├── README.md
+└── src
+    └── lagrimas_de_ferro
+        ├── default_env.tres
+        ├── icon.png
+        ├── icon.png.import
+        ├── main.tscn
+        ├── player.gd
+        └── project.godot
   </pre>
