@@ -10,7 +10,7 @@
 # Kanban para organizção das tarefas do jogo
 
 # responsabilidades: ( quais areas a pessoa esta responsavel )
-	marcos : documentacao e material grafico , ajudar na elaboracao do jogo.
+	marcos : documentação e material gráfico , criação e manutenção do site , ajudar na elaboração do jogo.
 
 ## para fazer:
 	marcos - definir o que vai ter na documentacao
